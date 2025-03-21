@@ -77,7 +77,7 @@
             padding: 10px 20px;
             font-size: 16px;
             background-color: #ff4d6d;
-            color: white;
+            color: black;
             border: none;
             border-radius: 10px;
             cursor: pointer;
