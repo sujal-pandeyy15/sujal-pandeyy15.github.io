@@ -92,7 +92,7 @@
             margin-left: auto;
             margin-right: auto;
             color: black;
-            background: white;
+            background: black;
             padding: 10px;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
@@ -102,7 +102,8 @@
 <body>
     <div class="container">
         <h1>My Lovely Wife 💖</h1>
-        <img id="wifePhoto" src="photo1.jpg" alt="My Wife">
+        <img id="wifePhoto" src="![my wife](https://github.com/user-attachments/assets/a6643f9a-7189-4ab5-bc19-03b3644bad6f)
+" alt="My Wife">
         <p class="message" id="message">You are my everything! 😘</p>
         <button class="button" onclick="changePhoto()">Next Photo</button>
     </div>
@@ -115,7 +116,10 @@
     </div>
 
     <script>
-        let photos = ["photo1.jpg", "photo2.jpg", "photo3.jpg"];
+        let photos = ["![my wife](https://github.com/user-attachments/assets/7cd79eb3-e5ba-4e94-867f-ebaff4888fc8)
+", "![my wife](https://github.com/user-attachments/assets/383c818c-3912-4fbe-b43d-21acfde70dd5)
+", "![my wife](https://github.com/user-attachments/assets/6c61a63b-6999-4a19-afd9-6ddd3c277a47)
+"];
         let messages = [
             "You are my sunshine! ☀️",
             "I love you more than pizza! 🍕❤️",
